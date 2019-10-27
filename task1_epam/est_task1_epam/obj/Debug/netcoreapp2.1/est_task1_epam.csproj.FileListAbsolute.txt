@@ -1,0 +1,11 @@
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\bin\Debug\netcoreapp2.1\est_task1_epam.deps.json
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\bin\Debug\netcoreapp2.1\est_task1_epam.runtimeconfig.json
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\bin\Debug\netcoreapp2.1\est_task1_epam.runtimeconfig.dev.json
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\bin\Debug\netcoreapp2.1\est_task1_epam.dll
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\bin\Debug\netcoreapp2.1\est_task1_epam.pdb
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\obj\Debug\netcoreapp2.1\est_task1_epam.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\obj\Debug\netcoreapp2.1\est_task1_epam.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\obj\Debug\netcoreapp2.1\est_task1_epam.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\obj\Debug\netcoreapp2.1\est_task1_epam.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\obj\Debug\netcoreapp2.1\est_task1_epam.dll
+C:\Users\Пользователь\Desktop\д\est_task1_epam\est_task1_epam\obj\Debug\netcoreapp2.1\est_task1_epam.pdb
