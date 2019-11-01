@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taska6_epam", "taska6_epam\taska6_epam.csproj", "{9D380681-3A95-436D-B0E7-47F3F61838AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D380681-3A95-436D-B0E7-47F3F61838AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D380681-3A95-436D-B0E7-47F3F61838AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D380681-3A95-436D-B0E7-47F3F61838AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D380681-3A95-436D-B0E7-47F3F61838AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4283BCB-B1C4-46FB-8DC9-89B122F5CB5D}
+	EndGlobalSection
+EndGlobal

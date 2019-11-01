@@ -1,0 +1,7 @@
+C:\Users\Пользователь\Desktop\д\taska6_epam\taska6_epam\bin\Debug\taska6_epam.exe.config
+C:\Users\Пользователь\Desktop\д\taska6_epam\taska6_epam\bin\Debug\taska6_epam.exe
+C:\Users\Пользователь\Desktop\д\taska6_epam\taska6_epam\bin\Debug\taska6_epam.pdb
+C:\Users\Пользователь\Desktop\д\taska6_epam\taska6_epam\obj\Debug\taska6_epam.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\д\taska6_epam\taska6_epam\obj\Debug\taska6_epam.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\д\taska6_epam\taska6_epam\obj\Debug\taska6_epam.exe
+C:\Users\Пользователь\Desktop\д\taska6_epam\taska6_epam\obj\Debug\taska6_epam.pdb
